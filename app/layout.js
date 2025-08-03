@@ -3,7 +3,7 @@ export const metadata = {
   description: "Export-Grade Indian Farsan for Global Tastebuds",
 };
 
-import "@/app/globals.css";
+import "./globals.css";
 
 export default function RootLayout({ children }) {
   return (
